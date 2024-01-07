@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Roboto', sans-serif;
+    font-family: "Roboto", sans-serif;
 }
 
 html,
@@ -68,7 +68,7 @@ i {
 
 .nav-home {
     flex: 1;
-    background: rgba(0,0,0, 0.5);
+    background: rgba(0, 0, 0, 0.5);
     border: 10px;
     height: 100%;
     display: flex;
@@ -189,7 +189,8 @@ i {
         width: 100%;
     }
 
-    p,a {
+    p,
+    a {
         font-size: 12px;
     }
 

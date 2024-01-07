@@ -189,7 +189,8 @@ i {
     bottom: 0;
     width: 100%;
   }
-  p, a {
+  p,
+  a {
     font-size: 12px;
   }
   .nav-home .nav-item {
